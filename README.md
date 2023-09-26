@@ -11,3 +11,5 @@ Verifique o IP recebido no monitor serial da IDE do arduino
 ![image](https://github.com/carlosalbertotuma/automacao-esp32/assets/13341724/25c88efc-561a-41e1-b5ab-852c0b93b52d)
 
 são 10 itens declarados no array, onde cada um tem um nome e pinagem, para adionar mais é so adionar mais numeros ao item assim como nos respectivos array de nome e pinagem.
+
+![image](https://github.com/carlosalbertotuma/automacao-esp32/assets/13341724/f180f450-6e96-484a-8d2f-fd411bcb1bb0)
